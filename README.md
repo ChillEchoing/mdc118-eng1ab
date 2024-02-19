@@ -1,2 +1,7 @@
-# mdc118-eng1ab
-Repositório de uhhhhh, hmmmm, forgor
+# Repositório de uhhhhh, hmmmm, forgor
+
+Repósitorio feito para guardar códigos praticados em sala
+
+Possui
+* aulas - códigos de aulas expositivas
+* práticas - códigos atividades práticas
